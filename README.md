@@ -1,7 +1,7 @@
 # Olá, Pessoal !🌎 Seja bem-vindo(a)
-My name is Gustavo Parreiras, I'm from Brazil 🌐 I'm A Computer Engineer ,that has been working as a Back-end developer since 2020.
+#### My name is Gustavo Parreiras, I'm from Brazil 🌐 I'm Student Developer,that has been working as a Back-end developer since 2021.
 
-I'm passionate about solving problems and learning.Always open to new challenges and ready to face changes.
+#### I'm passionate about solving problems and learning.Always open to new challenges and ready to face changes.
 
 ###  "Quanto mais eu sei, mais eu sou"🔥
 
